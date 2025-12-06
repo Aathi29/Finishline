@@ -32,7 +32,7 @@ This project is a RESTful API built with **Spring Boot** that helps users track 
 {
   "bookId": 12,
   "pagesRead": 25
-}
+}```
 
 **Response (Success):**
 ```json
